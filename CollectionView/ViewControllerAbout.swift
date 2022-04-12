@@ -8,9 +8,9 @@
 import UIKit
 
 class ViewControllerAbout: UIViewController {
-
+    
     @IBOutlet weak var imageAboutOutlet: UIImageView!
-   
+    
     var image = ""
     
     override func viewDidLoad() {
